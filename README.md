@@ -1,3 +1,3 @@
-# tp-perfs
+# TP-PERFS
 
-https://helene-coullon.fr/pages/ue-services-fise-22-23/tp-perfs/
+Pour voir qu'il n'y a pas de différence entre chaque load balancer, executez src/perfomance.py
